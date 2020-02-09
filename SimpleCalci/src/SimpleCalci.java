@@ -31,7 +31,6 @@ class Division extends Solutions{
 
 public class SimpleCalci {
 
-	public static void main(String[] args) {
 		public static void main(String args[]){
 			Solutions s;
 			Scanner input=new Scanner(System.in);
